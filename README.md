@@ -1,11 +1,11 @@
 # Project Title
-Password_Strength_checker
+Non Hashed Password Cracker
 
 # Project Overview
 Under the Internship program with Skillraace this project is being Completed
 
 # Task Description
-A python program that can check the strength of user's password. Allowing user to input a password and and check the strength according to different standard's.
+A python program that can crack the passwords. 
 
 # Technologies Used
 This program is using Python as its main language.
@@ -17,17 +17,17 @@ Provide step-by-step instructions on how to install and set up the project local
 ###bash
 ```
 # Example installation steps
-git clone https://github.com/KartikeyanTomar/SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_TEST-THE-STRENGTH-OF-A-PASSWORD_SKILLRAACE.git
-cd SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_TEST-THE-STRENGTH-OF-A-PASSWORD_SKILLRAACE
-python Password_Strength_Checker.py
+git clone https://github.com/KartikeyanTomar/SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_SIMPLE-NON-HASHED-PASSWORD-CRACKER_SKILLRAACE.git
+cd SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_SIMPLE-NON-HASHED-PASSWORD-CRACKER_SKILLRAACE
+python non-hashed-password-cracker.py
 ```
 
 # Usage
 
-This project can be used to check the strength of your password and also Encrypt and Decrypt your passwords.
+This project can be used to craack the password.
 
 # Results
-This Program will return the strength of your password according to some criteria's.
+This Program will return the passwords in unencrypted text.
 
 ----------------------------------##########-------------------------------------------------------------------------
 
